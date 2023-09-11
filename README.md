@@ -1,1 +1,4 @@
-oop
+- Họ tên: Nguyễn Tiến Đạt
+- Lớp: 12422TN
+- Mã sinh viên: 10122119
+- Tài khoản Github: datnguyen-tien204
