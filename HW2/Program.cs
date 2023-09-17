@@ -5,7 +5,7 @@ namespace Hw2
     {
         static void Main()
         {
-            Console.WriteLine("=====Management Person programer=====");
+            Console.WriteLine("===== Management Person =====");
 
             int per_count = 0;
 
@@ -92,7 +92,7 @@ namespace Hw2
                             int count = 1;
                             foreach (var person in people)
                             {
-                                Console.WriteLine($"Information of Person {count} you have entered:");
+                                Console.WriteLine($"Information of Person {count}");
                                 Person.DisplayPersonInfo(person);
                                 count++;
                             }
@@ -109,13 +109,13 @@ namespace Hw2
                                 break;
                             }
 
-                            Console.WriteLine("Sorted Person List by Salary Ascending:");
+                            Console.WriteLine("Sorted Person List by Salary Descending:");
                             people = Person.SortBySalary(people, 1);
 
                             int count = 1;
                             foreach (var person in people)
                             {
-                                Console.WriteLine($"Information of Person {count} you have entered:");
+                                Console.WriteLine($"Information of Person {count}");
                                 Person.DisplayPersonInfo(person);
                                 count++;
                             }

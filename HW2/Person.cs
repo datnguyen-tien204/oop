@@ -50,7 +50,7 @@ namespace Hw2
             double salary;
             while (true)
             {
-                Console.Write("Please input salary: ");
+                Console.Write("Input salary: ");
                 string inputSalary = Console.ReadLine();
 
                 if (!double.TryParse(inputSalary, out salary))
