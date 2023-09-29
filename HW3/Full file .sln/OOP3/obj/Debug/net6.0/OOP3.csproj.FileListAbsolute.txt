@@ -1,0 +1,14 @@
+E:\CTDLGT\LinkedList\OOP3\OOP3\bin\Debug\net6.0\OOP3.exe
+E:\CTDLGT\LinkedList\OOP3\OOP3\bin\Debug\net6.0\OOP3.deps.json
+E:\CTDLGT\LinkedList\OOP3\OOP3\bin\Debug\net6.0\OOP3.runtimeconfig.json
+E:\CTDLGT\LinkedList\OOP3\OOP3\bin\Debug\net6.0\OOP3.dll
+E:\CTDLGT\LinkedList\OOP3\OOP3\bin\Debug\net6.0\OOP3.pdb
+E:\CTDLGT\LinkedList\OOP3\OOP3\obj\Debug\net6.0\OOP3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTDLGT\LinkedList\OOP3\OOP3\obj\Debug\net6.0\OOP3.AssemblyInfoInputs.cache
+E:\CTDLGT\LinkedList\OOP3\OOP3\obj\Debug\net6.0\OOP3.AssemblyInfo.cs
+E:\CTDLGT\LinkedList\OOP3\OOP3\obj\Debug\net6.0\OOP3.csproj.CoreCompileInputs.cache
+E:\CTDLGT\LinkedList\OOP3\OOP3\obj\Debug\net6.0\OOP3.dll
+E:\CTDLGT\LinkedList\OOP3\OOP3\obj\Debug\net6.0\refint\OOP3.dll
+E:\CTDLGT\LinkedList\OOP3\OOP3\obj\Debug\net6.0\OOP3.pdb
+E:\CTDLGT\LinkedList\OOP3\OOP3\obj\Debug\net6.0\OOP3.genruntimeconfig.cache
+E:\CTDLGT\LinkedList\OOP3\OOP3\obj\Debug\net6.0\ref\OOP3.dll
